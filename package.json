@@ -10,7 +10,7 @@
     "restart": "pm2 restart JULIE-BOT",
     "dev": "node index.js"
   },
-  "keywords": ["inconnu boy", "whatsapp-bot", "whatsapp md bot"],
+  "keywords": ["black boy", "whatsapp-bot", "whatsapp md bot"],
   "author": "JULIE BOT",
   "license": "ISC",
   "dependencies": {
