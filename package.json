@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name INCONNU-XD",
-    "stop": "pm2 stop INCONNU-XD", 
-    "restart": "pm2 restart INCONNU-XD",
+    "stop": "pm2 stop JULIE", 
+    "restart": "pm2 restart JULIE-BOT",
     "dev": "node index.js"
   },
   "keywords": ["inconnu boy", "whatsapp-bot", "whatsapp md bot"],
