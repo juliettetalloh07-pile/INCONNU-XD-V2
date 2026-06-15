@@ -11,7 +11,8 @@
     "dev": "node index.js"
   },
   "keywords": ["inconnu boy", "whatsapp-bot", "whatsapp md bot"],
-  "author": "INCONNU BOY",
+  "author": "I
+",
   "license": "ISC",
   "dependencies": {
     "@whiskeysockets/baileys": "npm:angularsockets",
